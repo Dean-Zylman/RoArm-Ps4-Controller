@@ -41,6 +41,7 @@ Plug in your robotic arm via USB.
 
 WINDOWS:
     Open Command Prompt and run:
+    
         mode
 
     Or:
@@ -52,6 +53,7 @@ WINDOWS:
 
 LINUX:
     Open terminal and run:
+    
         ls /dev/tty*
 
     Usually:
@@ -60,6 +62,7 @@ LINUX:
 
 MACOS:
     Open terminal and run:
+    
         ls /dev/tty.*
 
     Usually:
