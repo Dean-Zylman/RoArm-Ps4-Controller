@@ -47,10 +47,13 @@ WINDOWS:
     
         mode
 
-    Or:
+
+ Or:
+    
         python -m serial.tools.list_ports
 
-    Look for something like:
+ Look for something like:
+ 
         COM3
         COM4
 
@@ -59,7 +62,8 @@ LINUX:
     
         ls /dev/tty*
 
-    Usually:
+ Usually:
+ 
         /dev/ttyUSB0
         /dev/ttyACM0
 
@@ -68,7 +72,8 @@ MACOS:
     
         ls /dev/tty.*
 
-    Usually:
+ Usually:
+ 
         /dev/tty.usbserial-XXXX
         /dev/tty.usbmodemXXXX
 
