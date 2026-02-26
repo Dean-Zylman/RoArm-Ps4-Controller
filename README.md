@@ -28,12 +28,15 @@ WINDOWS:
 LINUX:
 
     sudo apt install python3-pip
+.
 
     pip3 install pygame pyserial
 
 MACOS (Homebrew Python recommended):
 
     brew install python
+.
+
     pip install pygame pyserial
 
 
